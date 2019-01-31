@@ -27,5 +27,6 @@ int main() {
         }
         memset(bar, 0, 10000004);
     }
+    printf("finished!!!");
     return 0;
 }
